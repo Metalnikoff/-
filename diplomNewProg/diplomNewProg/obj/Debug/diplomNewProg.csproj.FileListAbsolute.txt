@@ -1,0 +1,9 @@
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\bin\Debug\diplomNewProg.exe.config
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\bin\Debug\diplomNewProg.exe
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\bin\Debug\diplomNewProg.pdb
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.Form1.resources
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.Properties.Resources.resources
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.exe
+C:\Users\Pavel\Desktop\МГТУ\ДИПЛОМ\newprog\diplomNewProg\diplomNewProg\obj\Debug\diplomNewProg.pdb
